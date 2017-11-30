@@ -1,4 +1,4 @@
-# spin_the_wheel challenge
+# Spin the Wheel Challenge
 
 ![wheel.png](https://github.com/HIVERY/spin_the_wheel/blob/master/wheel.png)
 
