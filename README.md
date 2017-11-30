@@ -24,3 +24,5 @@ Bonus points:
 - using ES6 (with a compiler of your choice)
 
 Good luck!
+
+![wheel.png](https://github.com/HIVERY/spin_the_wheel/blob/master/wheel.png)
