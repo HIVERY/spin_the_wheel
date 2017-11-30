@@ -4,7 +4,7 @@
 
 Objective: implement a browser interface that
 - allows the user to spin a wheel
-- displays the results of the last 5 spins:
+- displays the results of the last 5 spins
 
 Main points:
 - the wheel contains the numbers 1 to 10, in any order
