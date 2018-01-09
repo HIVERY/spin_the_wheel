@@ -1,17 +1,25 @@
-# Spin the Wheel
+# Spin the Wheel - version 1.1
 
 ![wheel.png](https://github.com/HIVERY/spin_the_wheel/blob/master/wheel.png)
 
 Objective: implement a browser interface that
 - allows the user to spin a wheel
-- displays the results of the last 5 spins
+- predicts the next result
+- tracks prediction accuracy over time
 
 ## _Main points_
 - the wheel contains the numbers 1 to 10, in any order
 - to spin the wheel, the user can drag the mouse, or use a touchscreen gesture
-- after each spin, the wheel should slow down and stop, with the marker pointing at a single number
+- after each spin, the wheel slows down and stops, with the marker pointing at a single number
+
+## _Unit tests_
+- please include unit tests
+- you should have at least 50% test coverage
  
-When you finish, please send us the link to your github repo, so we can evaluate it. We need to be able to run your code (on a Mac or Linux machine) by following these steps:
+## _Important_
+- copy the version number (of this challenge) into your README file
+
+When you finish, send us the link to your github repo, so we can evaluate it. We need to be able to run your code (on a Mac or Linux machine) by following these steps:
 ``` 
 1) git clone <your project>
 2) cd <your project>
@@ -22,8 +30,9 @@ When you finish, please send us the link to your github repo, so we can evaluate
 You can assume we have already installed Python and Node.
 
 ## _Bonus points_
-- it works in a recent version of IE
-- 80% test coverage
 - implemented using ES6 (with a compiler of your choice)
+- it works in a recent version of IE
+- prediction accuracy > 10%
+- 85% test coverage
 
 Good luck!
